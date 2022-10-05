@@ -1,20 +1,19 @@
-# Street Style Landing Page  ![](https://img.shields.io/badge/-HTML-orange) ![](https://img.shields.io/badge/-CSS-yellowgreen)
+# Digital Marketing Homepage ![](https://img.shields.io/badge/-HTML-orange) ![](https://img.shields.io/badge/-CSS-yellowgreen)
   
- This is a landing page made for learning purposes using `CORE CSS` and `HTML`. As of now, this is not responsive.
+ This is a landing page made for learning purposes using `CORE CSS` and `HTML`. 
 
 
 Made by - **Robin Khilery**
 
-Duration : **4 Hours**
+Duration : **5 Hours**
 
 ***
  
 ## :clipboard: Learnings
-Learnt  about `DOM Structure` ,effective implementation of `Postion Property` and  
-some of `pseudo-selectors` like `before` and `after`.
+Learnt  about `Flexbox`  and effective implementation of `position` property .
 
 ## Deployed Link
- [click here to see deployed version](https://street-style-link.netlify.app/ "Click to Visit Link") 
+ [click here to see deployed version](https://digital-marketing-homepage-link.netlify.app/ "Click to Visit Link") 
 
 
 ## Screenshots
